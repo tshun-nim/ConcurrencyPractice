@@ -13,6 +13,7 @@
 		9ADC61222CC8FEC500714967 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 9ADC61212CC8FEC500714967 /* Base */; };
 		9ADC61242CC8FEC700714967 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ADC61232CC8FEC700714967 /* Assets.xcassets */; };
 		9ADC61272CC8FEC700714967 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 9ADC61262CC8FEC700714967 /* Base */; };
+		9ADC612F2CC9352F00714967 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADC612E2CC9352F00714967 /* LoginViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9ADC61232CC8FEC700714967 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9ADC61262CC8FEC700714967 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9ADC61282CC8FEC700714967 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9ADC612E2CC9352F00714967 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9ADC611A2CC8FEC500714967 /* AppDelegate.swift */,
 				9ADC611C2CC8FEC500714967 /* SceneDelegate.swift */,
 				9ADC611E2CC8FEC500714967 /* ViewController.swift */,
+				9ADC612E2CC9352F00714967 /* LoginViewModel.swift */,
 				9ADC61202CC8FEC500714967 /* Main.storyboard */,
 				9ADC61232CC8FEC700714967 /* Assets.xcassets */,
 				9ADC61252CC8FEC700714967 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9ADC612F2CC9352F00714967 /* LoginViewModel.swift in Sources */,
 				9ADC611F2CC8FEC500714967 /* ViewController.swift in Sources */,
 				9ADC611B2CC8FEC500714967 /* AppDelegate.swift in Sources */,
 				9ADC611D2CC8FEC500714967 /* SceneDelegate.swift in Sources */,
